@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Covid19 {
 
-    //Informe a previsão de casos de infectados e de mortes de acordo com a quantidade de dias.
-
     public static final double PERCENTUAL_MORTALIDADE = 0.02;
 
     public static void Pandemia() {
