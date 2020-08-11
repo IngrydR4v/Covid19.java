@@ -5,6 +5,7 @@ public class Covid19 {
     public static final double PERCENTUAL_MORTALIDADE = 0.02;
 
     public static void Pandemia() {
+        
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Há quantos dias começou a pandemia: ");
